@@ -1,8 +1,8 @@
 # WatchSync
 ## Purpose 
-File guarding and shareing files between servers.<br/>
+File guarding and sharing files between servers.<br/>
 Example:<br/>
-You have 10 servers and you need to edit same configuration file on all servers.<br/>
+You have 10 servers and you need to edit the same configuration file on all servers.<br/>
 With WatchSync all you need to do is to edit one file.<br/>
 
 ## Options
