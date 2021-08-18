@@ -3,7 +3,7 @@
 File guarding and shareing files between servers.<br/>
 Example:<br/>
 You have 10 servers and you need to edit same configuration file on all servers.<br/>
-With WatchSync all you need to do is edit config file are files will spread to defines locations.<br/>
+With WatchSync all you need to do is to edit one file.<br/>
 
 ## Options
 
