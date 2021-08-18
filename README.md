@@ -1,18 +1,18 @@
-#WatchSync
-##Purpose 
+# WatchSync
+## Purpose 
 File guarding and shareing between servers.
 Example:
 You have 10 servers and you need to edit same configuration file on all servers.
 With WatchSync all you need to do is edit config file properly.
 
-##Options
+## Options
 
  - supervised location
 ```
 dir=/home/dev/
 ```
 
- - log location
+  - log location
 ```
 log=./watchsync.log
 ```
